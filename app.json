@@ -1,0 +1,8 @@
+{
+  "name": "coptic_library",
+  "displayName": "Coptic Library",
+  "expo": {
+    "userInterfaceStyle": "automatic"
+  },
+  "version": "0.0.1"
+}
